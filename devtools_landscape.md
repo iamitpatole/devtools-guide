@@ -20,6 +20,9 @@ This document lists popular tools across key developer categories like Auth, CI/
 | Okta           | SaaS (Enterprise)        | SSO and identity provider                                        |
 | SuperTokens    | Self-hosted / SaaS       | Open source, session management                                  |
 | Warrant        | SaaS / SDK               | ReBAC-based authorization                                        |
+| WorkOs         | SaaS                     |                                 |
+| Descope        | SaaS                     |                                   |
+
 
 ---
 
