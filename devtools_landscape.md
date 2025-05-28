@@ -152,6 +152,14 @@ This document lists popular tools across key developer categories like Auth, CI/
 | Lerna          | OSS            | JS monorepo management                   |
 | TurboRepo      | OSS            | Fast monorepo builds                     |
 
+## 🧰 Notifications / Schedulers
+
+| Tool           | Type           | Highlights                               |
+|----------------|----------------|------------------------------------------|
+| Quartz Job Scheduling      | OSS            |open source job scheduling library                |
+| Knock.app             | OSS            | infrastructure for sending messages            |
+
+
 ---
 
 > ✅ This list is a living document. New tools emerge regularly—always evaluate based on your team’s needs and scale.
